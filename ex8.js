@@ -1,0 +1,1 @@
+console.log("let resultado = 10 + 5 * 2 > 20 && !false; \n Primeiro multiplicar o 5 * 2 = 10 \n Somar 10 = 20\n Comparar se 20 é maior que 20 = false\n E por fim Comparar se o resultado é diferente de False (False =! False)\n Resultado Final: False")
